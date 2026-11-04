@@ -1,7 +1,4 @@
-# knowledgefoundry
-Downloads for KnowledgeFoundry Author, a desktop eLearning authoring tool (tester preview)
-
-# KnowledgeFoundry Author (tester preview)
+# KnowledgeFoundry (tester preview)
 
 A Windows desktop app for building eLearning courses. Course logic lives on a visible
 flowchart instead of hidden triggers, and courses publish to cmi5, SCORM 2004,
@@ -24,6 +21,7 @@ https://github.com/jasonlearningpro/knowledgefoundry/releases/latest
 
 - **Help → Example courses** opens three finished courses to explore and take apart.
 - **Help → User guide** (or F1) covers everything the app can do.
+- A short tour shows you around the first time the app opens.
 
 ## Known limits
 
@@ -32,15 +30,18 @@ https://github.com/jasonlearningpro/knowledgefoundry/releases/latest
 - Not yet tested with a screen reader or on real phones.
 - Auto-transcribe downloads a speech model the first time you use it.
 
-## Feedback
+## Found a bug? Please tell me
 
-**Help → Send feedback…** in the app, or:
-https://forms.cloud.microsoft/r/fZFNyHhGVE
+- **Bugs:** Help → Report a bug in the app, or https://tally.so/r/DqBQRp
+  (you can attach screenshots)
+- **Ideas and opinions:** Help → Send feedback in the app, or
+  https://forms.cloud.microsoft/r/fZFNyHhGVE
 
 ## Terms
 
-This is a free evaluation copy. You may install and use it to evaluate it and give
-feedback. You may not share the installer, sell it, or take the app apart. Open-source
-parts included with the app keep their own licenses. See LICENSE for the full terms.
+This is a free evaluation copy. You may install it, use it, share it and give feedback.
+Courses you make with it are yours to use however you like. You may not take the app
+apart. Open-source parts included with the app keep their own licenses. See LICENSE
+for the full terms.
 
 © 2026 Jason Skocilich. All rights reserved.

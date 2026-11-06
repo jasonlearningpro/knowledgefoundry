@@ -2,7 +2,9 @@
 
 A Windows desktop app for building eLearning courses. Course logic lives on a visible flowchart instead of hidden triggers, and courses publish to cmi5, SCORM 2004, SCORM 1.2 or plain web.
 
-![The KnowledgeFoundry flowchart for the Safety First example course, showing branching learner paths](FLOWCHART-SCREENSHOT-HERE)
+
+
+
 
 [Drag your 60 second course preview video here when editing on github.com]
 

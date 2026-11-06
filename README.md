@@ -2,11 +2,7 @@
 
 A Windows desktop app for building eLearning courses. Course logic lives on a visible flowchart instead of hidden triggers, and courses publish to cmi5, SCORM 2004, SCORM 1.2 or plain web.
 
-
-
-
-
-[Drag your 60 second course preview video here when editing on github.com]
+https://github.com/user-attachments/assets/8b1dbe3f-edf3-4d7c-a42c-aa41c28b0981
 
 Designed and built by Jason Skocilich, instructional designer. [LinkedIn](https://www.linkedin.com/in/jasonlearningpro)
 

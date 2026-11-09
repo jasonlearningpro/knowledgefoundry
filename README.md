@@ -6,6 +6,10 @@ https://github.com/user-attachments/assets/8b1dbe3f-edf3-4d7c-a42c-aa41c28b0981
 
 Designed and built by Jason Skocilich, instructional designer. [LinkedIn](https://www.linkedin.com/in/jasonlearningpro)
 
+## User guide
+
+Read the guide online: https://jasonlearningpro.github.io/knowledgefoundry/
+
 ## Download
 
 Get the installer from the Releases section on this page: https://github.com/jasonlearningpro/knowledgefoundry/releases/latest
